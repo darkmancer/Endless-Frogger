@@ -12,7 +12,7 @@ You can play the game from [this link](https://darkmancer.github.io/Endless-Frog
 
 ## Game Rules
 
-In this game there is a Player and Enemies (Bugs). The goal of the player is to reach the water, without colliding into any one of the enemies.
+In this game there is a Player and Enemies (Bugs). The goal of the player is to reach beyond the water, without colliding into any one of the enemies.
 
 The player can move left, right, up and down using keyboard's arrow keys. The enemies move in varying speeds on the paved block portion of the scene. Once a the player collides with an enemy, the player moves back to the start square and loses 1 life. Once the player reaches the water 20 points are added to the score. The game is over when your life reach zero
 
