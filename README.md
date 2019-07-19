@@ -2,7 +2,7 @@
 
 Frogger Game is a complete browser-based arcade game with endless ending.
 
-You can play the game from [this link]().
+You can play the game from [this link](https://darkmancer.github.io/Endless-Frogger/).
 
 ## Table of Contents
 
