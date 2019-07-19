@@ -21,14 +21,6 @@ Additionally there are 2 types of Items a green gem and a heart that player can 
 * **Heart** - 1 up life
 * **green gem** - 50 points
 
-**Game intro**
-
-<img src="./screenshots/intro.PNG" width="450">
-
-**Game board**
-
-<img src="./screenshots/play.PNG" width="450">
-
 ## Technical
 
 * **index.html** - contains the game's html structure.
